@@ -1,4 +1,4 @@
-// Hello peeps! :-) It's a SPEED calculator First you have to put the DISTANCE and then the TIME. So enjoy the programme .{Fell FREE to do CHANGES}
+// Hello peeps! :-) It's a TIME calculator First you have to put the DISTANCE and then the SPEED. So enjoy the programme .{Fell FREE to do CHANGES}
 
 
 /*NOTE: YOU HAVE TO PUT ALL THE
